@@ -1,4 +1,4 @@
-![Banner da comunidade de desenvolvedores](https://github.com/setlmnt/.github/profile/setlmnt.png?raw=true)
+![Banner da comunidade de desenvolvedores](https://github.com/setlmnt/.github/blob/main/profile/setlmnt.png?raw=true)
 
 <!--
 

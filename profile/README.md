@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner da comunidade de desenvolvedores](https://github.com/setlmnt/.github/profile/setlmnt.png?raw=true)
 
 <!--
 
